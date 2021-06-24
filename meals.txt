@@ -1,0 +1,31 @@
+Salad - lettuce, ranch dressing, peppers, croutons, cucumber, tomatoes
+Cheeseburger - lettuce, tomatoes, sauce, burger bun, cheese, beef, fish, chicken
+Cheeseburger - lettuce, tomatoes, sauce,burger bun, cheese, beef, fish, chicken
+Cereal - milk, cereal
+Hotdog - ketchup, sausage, hotdog bun
+Pizza - dough, tomato sauce, cheese, sausage, peppers
+Toast - sliced bread
+BBQ - beef, sausage, BBQ sauce, chicken
+Sushi - rice, cucumbers, fish, seaweed
+Chicken and rice - chicken, rice
+Lasagna - dough, tomato sauce
+Spaghetti & Meatballs - beef, dough, tomato sauce
+Mac & Cheese - dough, cheese
+Bento - rice, fish, lettuce, cucumber,
+Stuffed peppers - peppers, rice, beef
+Parfait - yogurt, cereal, berries
+Stuffed fish balls - fish, cheese
+Beef rice - beef, rice
+Apple pie - apples, dough
+Omlette - eggs, cheese, peppers
+Pickles - cucumbers
+Cheese bread - cheese, dough
+Stuffing - sliced bread, cucumbers, peppers, lettuce
+Tomato and eggs - tomatoes, eggs
+Muffin - dough, milk, eggs
+Pasta - dough, eggs, tomato sauce,  peppers
+Apple sauce - apples
+Fish and chips - fish, potatoes
+Mashed potatoes - potatoes, gravy
+Rice pudding - rice, eggs, butter
+Rice krispies - cereal, butter
