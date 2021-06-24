@@ -1,5 +1,5 @@
 # Grocery Trip Game
-A grocery trip simulation game in which the player completes a grocery trip each day over 5 days. Each trip is a series of minigames the player has to complete before moving on to the next one.
+A grocery trip simulation game in Swing where the player completes a grocery trip each day over 5 days. Each trip is a series of minigames the player has to complete before moving on to the next one. 
 
 > StartingFrameOOP.java to launch the game
 
