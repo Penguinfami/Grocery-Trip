@@ -81,7 +81,7 @@ public class CarPlayer extends Player{
   public void draw(Graphics g){
     if (image != null){ 
       Graphics2D g2d = (Graphics2D)g.create();
-      g2d.setTransform(transform); // rotate the graphics
+      g2d.transform(transform); // rotate the graphics
       g2d.drawImage(image, getX(), getY(), getWidth(), getHeight(), null); // draw the car image
     }
   } // end draw
